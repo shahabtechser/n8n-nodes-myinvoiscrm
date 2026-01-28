@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png)
 
 # n8n-nodes-starter
@@ -245,3 +246,6 @@ Have suggestions for improving this starter? [Open an issue](https://github.com/
 ## License
 
 [MIT](https://github.com/n8n-io/n8n-nodes-starter/blob/master/LICENSE.md)
+=======
+# n8n-nodes-myinvoiscrm
+>>>>>>> b644eeb36c914d27b8a99aa0ad189b0ffcc80cf1
